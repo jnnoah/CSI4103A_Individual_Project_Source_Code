@@ -1,3 +1,5 @@
+// I wrote about 40% of the code by myself and got help from chatgpt as well.
+
 import React from 'react';
 import './App.css';
 import NavBar from './components/NavBar';
