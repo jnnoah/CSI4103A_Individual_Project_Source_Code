@@ -12,4 +12,4 @@ npx install axios
 
 npm install
 
-And delete all jest files.
+And delete all jest files and directories.
